@@ -1,6 +1,6 @@
-# Contributing to RealWorld
+# Contributing to Conduit Articles
 
-We would love for you to contribute to RealWorld and help make it even better than it is
+We would love for you to contribute to Conduit Articles and help make it even better than it is
 today! As a contributor, here are the guidelines we would like you to follow:
 
 - [Question or Problem?](#question)
@@ -15,12 +15,11 @@ today! As a contributor, here are the guidelines we would like you to follow:
 Do not open issues for general support questions as we want to keep GitHub issues for bug reports and feature requests.  
 For open discussions, we encourage you to use the [Github Discussions][github-discussions] channels.
 
-## <a name="issue"></a> Interested in creating Conduit for your framework?
+## <a name="issue"></a> Interested in Contributing?
 
-To create an official implementation of Conduit, check out our [Github Discussions](https://github.com/gothinkster/realworld/discussions/categories/wip-implementations) and see if anyone else has requested and/or is already working on your framework.
-If not, feel free to start working on one!
+We welcome all kinds of contributions to improve Conduit Articles. Whether you want to fix bugs, add new features, or improve documentation, your help is appreciated!
 
-Start [here][github-spec]!
+Before you start working on a major feature, please open an issue first to discuss it with the maintainers.
 
 ## <a name="issue"></a> Found a Bug?
 
@@ -206,9 +205,35 @@ BREAKING CHANGE:
 change login route to /users/login
 ```
 
-[github]: https://github.com/gothinkster/realworld
-[github-issue]: https://github.com/gothinkster/realworld/issues/new?assignees=&labels=bug&template=---bug-report.md&title=
-[github-feature]: https://github.com/gothinkster/realworld/issues/new?assignees=&labels=enhancement&template=---feature-request.md&title=
-[github-choose]: https://github.com/gothinkster/realworld/issues/new/choose
-[github-discussions]: https://github.com/gothinkster/realworld/discussions
-[github-spec]: https://github.com/gothinkster/realworld/tree/master/spec
+## Development Setup
+
+1. Fork the repository
+2. Clone your forked repository
+3. Install dependencies:
+   ```bash
+   cd apps/api
+   npm install
+   ```
+4. Set up your environment variables (copy .env.example to .env)
+5. Run the development server:
+   ```bash
+   npm run dev
+   ```
+
+## Code Style
+
+- Follow the existing code style in the codebase
+- Use meaningful variable and function names
+- Add comments for complex logic
+- Write tests for new features
+
+## Pull Request Process
+
+1. Ensure any install or build dependencies are removed before the end of the layer when doing a build
+2. Update the README.md with details of changes to the interface, this includes new environment variables, exposed ports, useful file locations and container parameters
+3. Increase the version numbers in any examples files and the README.md to the new version that this Pull Request would represent. The versioning scheme we use is [SemVer](http://semver.org/)
+4. You may merge the Pull Request in once you have the sign-off of two other developers, or if you do not have permission to do that, you may request the second reviewer to merge it for you
+
+## License
+
+By contributing, you agree that your contributions will be licensed under its MIT License.

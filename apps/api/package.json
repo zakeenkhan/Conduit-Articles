@@ -1,4 +1,26 @@
 {
+  "name": "conduit-articles",
+  "version": "1.0.0",
+  "description": "A modern, full-stack blogging platform for creating and sharing articles",
+  "author": "Your Name <your.email@example.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/yourusername/Conduit-Articles#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/Conduit-Articles.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/Conduit-Articles/issues"
+  },
+  "keywords": [
+    "blog",
+    "articles",
+    "conduit",
+    "fullstack",
+    "nodejs",
+    "prisma",
+    "typescript"
+  ],
   "private": true,
   "scripts": {
     "build": "nitro build",
