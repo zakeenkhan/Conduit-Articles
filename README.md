@@ -6,7 +6,7 @@ A modern, full-stack blogging platform built with modern web technologies. Creat
 
 ## 🚀 Live Demo
 
-Check out the live demo: [https://conduit-articles-demo.com](https://conduit-articles-demo.com)
+Check out the live demo: [https://demo.realworld.show/#/](https://conduit-articles-demo.com)
 
 ## ✨ Features
 
@@ -78,12 +78,6 @@ Contributions are welcome! Please read our [Contributing Guidelines](CONTRIBUTIN
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👨‍💻 Author
-
-- **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Twitter: [@yourtwitter](https://twitter.com/yourtwitter)
 
 ## 🙏 Acknowledgments
 
