@@ -6,7 +6,7 @@ A modern, full-stack blogging platform built with modern web technologies. Creat
 
 ## 🚀 Live Demo
 
-Check out the live demo: [https://demo.realworld.show/#/](https://conduit-articles-demo.com)
+Check out the live demo: [https://demo.realworld.show/#/](https://demo.realworld.show/#/)
 
 ## ✨ Features
 
