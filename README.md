@@ -26,6 +26,34 @@ Check out the live demo: [https://demo.realworld.show/#/](https://demo.realworld
 - **Runtime**: Node.js
 - **Package Manager**: npm
 - **Testing**: Prisma (for database operations)
+## 📸 Screenshots
+
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin: 20px 0;">
+  <div>
+    <img src="SS/SignIn.JPG" alt="Sign In Page" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    <p align="center">Sign In</p>
+  </div>
+  <div>
+    <img src="SS/Articles.JPG" alt="Articles List" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    <p align="center">Articles Feed</p>
+  </div>
+  <div>
+    <img src="SS/writeArticles.JPG" alt="Write Article" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    <p align="center">Create New Article</p>
+  </div>
+  <div>
+    <img src="SS/AddingComments.JPG" alt="Add Comments" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    <p align="center">Add Comments</p>
+  </div>
+  <div>
+    <img src="SS/Setting.JPG" alt="User Settings" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    <p align="center">User Settings</p>
+  </div>
+  <div>
+    <img src="SS/populartags.JPG" alt="Popular Tags" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    <p align="center">Popular Tags</p>
+  </div>
+</div>
 
 ## 🚀 Quick Start
 
@@ -79,34 +107,6 @@ Contributions are welcome! Please read our [Contributing Guidelines](CONTRIBUTIN
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📸 Screenshots
-
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin: 20px 0;">
-  <div>
-    <img src="SS/SignIn.JPG" alt="Sign In Page" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-    <p align="center">Sign In</p>
-  </div>
-  <div>
-    <img src="SS/Articles.JPG" alt="Articles List" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-    <p align="center">Articles Feed</p>
-  </div>
-  <div>
-    <img src="SS/writeArticles.JPG" alt="Write Article" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-    <p align="center">Create New Article</p>
-  </div>
-  <div>
-    <img src="SS/AddingComments.JPG" alt="Add Comments" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-    <p align="center">Add Comments</p>
-  </div>
-  <div>
-    <img src="SS/Setting.JPG" alt="User Settings" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-    <p align="center">User Settings</p>
-  </div>
-  <div>
-    <img src="SS/populartags.JPG" alt="Popular Tags" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-    <p align="center">Popular Tags</p>
-  </div>
-</div>
 
 ## 🙏 Acknowledgments
 
